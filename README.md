@@ -4,7 +4,7 @@
 
 
 
-- 🔭 A second year student at KIIT UNIVERSITY and a aspiring Web developer
+- 🔭 A third year student at KIIT UNIVERSITY and a aspiring Web developer
 - 🌱 Advanced JS.
 - 👯 Webapps
 - 🤔 Sass and Reactjs
